@@ -1,0 +1,35 @@
+# IESA DeepTech Hackathon 2026
+# Semiconductor Defect Detection System - Dependencies
+
+# Core Deep Learning
+tensorflow==2.13.0
+keras==2.13.1
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.3
+pillow==10.0.0
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Machine Learning Utilities
+scikit-learn==1.3.0
+
+# Model Export & Deployment
+onnx==1.14.0
+onnxruntime==1.15.1
+tf2onnx==1.15.1
+
+# Utilities
+tqdm==4.65.0
+pyyaml==6.0.1
+
+# Jupyter (Optional)
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Testing (Optional)
+pytest==7.4.0
+pytest-cov==4.1.0
